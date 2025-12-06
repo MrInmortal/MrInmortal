@@ -35,11 +35,7 @@
         <img src="https://img.shields.io/badge/DISCORD-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
     </a>
     <a href="#" target="_blank">
-        <img src="https://img.shields.io/badge/INSTAGRAM-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+        <img src="https://img.shields.io/badge/INSTAGRAM-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="[Instagram](https://www.instagram.com/emillperalta434)" />
     </a>
 </div>
 
-<div align="center">
-    <br>
-    <img src="https://svg-to-image.vercel.app/api/glitch?text=>>>%20S T A Y%20N E O N%20%7C%20S T A Y%20L E G E N D A R Y%20<<<" alt="Glitch Text: STAY NEON | STAY LEGENDARY" />
-</div>
