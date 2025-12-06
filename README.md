@@ -34,17 +34,7 @@
 
 ## 🔗 Social Links
 <div align="center">
-    <a href="mrinmortal434" target="_blank">
-        <img src="https://img.shields.io/badge/DISCORD-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
-    </a>
-    <a href="https://www.instagram.com/emillperalta434" target="_blank">
-        <img src="https://img.shields.io/badge/INSTAGRAM-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
-    </a>
-</div>
-
-## 🔗 Social Links
-<div align="center">
-    <a href="TU_ENLACE_DE_INVITACION_DISCORD" target="_blank">
+    <a href="#" target="_blank">
         <img src="https://img.shields.io/badge/Discord-MrInmortal434-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord: MrInmortal434" />
     </a>
     <a href="https://www.instagram.com/emillperalta434" target="_blank">
