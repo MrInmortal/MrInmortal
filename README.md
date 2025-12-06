@@ -25,7 +25,7 @@
 
 ## 💀 What I Want to Learn Next
 <p align="center">
-    <img src="https://skillicons.dev/icons?i=mongodb,express,react,nodejs,nextjs,ts,tailwind&theme=dark" alt="MongoDB, Express, React, Node.js, Next.js, TypeScript, wordpress" />
+    <img src="https://skillicons.dev/icons?i=mongodb,express,react,nodejs,nextjs,ts,tailwind&theme=dark" alt="MongoDB, Express, React, Node.js, Next.js, TypeScript, Wordpress" />
 </p>
 
 <br>
