@@ -38,6 +38,6 @@
         <img src="https://img.shields.io/badge/Discord-MrInmortal434-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord: MrInmortal434" />
     </a>
     <a href="https://www.instagram.com/emillperalta434" target="_blank">
-        <img src="https://img.shields.io/badge/Instagram-emillperalta434-E4405F?style=for-the-badge&logo=instagram&logoColor=blue" alt="Instagram: emillperalta434" />
+        <img src="https://img.shields.io/badge/Instagram-emillperalta434-E4405F?style=for-the-badge&logo=instagram&logoColor=pink" alt="Instagram: emillperalta434" />
     </a>
 </div>
