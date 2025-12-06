@@ -38,7 +38,3 @@
     </a>
 </div>
 
-<div align="center">
-    <br>
-    <img src="https://svg-to-image.vercel.app/api/glitch?text=>>>%20S T A Y%20N E O N%20%7C%20S T A Y%20L E G E N D A R Y%20<<<" alt="Glitch Text: STAY NEON | STAY LEGENDARY" />
-</div>
