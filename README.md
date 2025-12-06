@@ -1,19 +1,14 @@
-<!-- TITLE -->
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=32&pause=400&color=00E5FF&center=true&vCenter=true&width=700&lines=Hey%2C+I'm+MrInmortal+⚡;Software+Developer+in+Progress;Future+Full+Stack+Engineer+🚀;Welcome+to+my+neon+universe+🌌" />
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=28&pause=600&color=00E5FF&center=true&vCenter=true&width=750&lines=MrInmortal+434+⚡;Desarrollador+en+Proceso;Full+Stack+Developer+Loading...;Tech+%7C+Neon+%7C+Cyberpunk" />
 </h1>
-
-<p align="center">
-  <img src="https://i.imgur.com/8eQZ6kW.gif" width="400"/>
-</p>
 
 ---
 
-## 🧬 About Me
-🔥 Desarrollador en proceso  
-🌌 Apasionado por el mundo tech, el diseño futurista y el código elegante  
-🧠 Siempre aprendiendo, siempre subiendo de nivel  
-🇩🇴 Desde República Dominicana, construyendo mi camino como Software Developer  
+## 🔥 About Me
+- 🟣 Desarrollador en proceso  
+- 💡 Apasionado por el diseño futurista, el neon vibe y el código limpio  
+- ⚡ Siempre aprendiendo nuevas tecnologías  
+- 🇩🇴 República Dominicana  
 
 ---
 
@@ -24,7 +19,7 @@
 
 ---
 
-## 🧪 Learning & Leveling Up
+## 🌱 Learning & Leveling Up
 <p align="center">
   <img src="https://skillicons.dev/icons?i=react,nodejs,ts,js&theme=dark" />
 </p>
@@ -33,24 +28,24 @@
 
 ## ⚙️ GitHub Power Stats
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=MrInmortal434&show_icons=true&theme=highcontrast&hide_border=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MrInmortal434&layout=compact&theme=highcontrast&hide_border=true" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=MrInmortal434&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MrInmortal434&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
 
-## 🧩 Streak & Activity
+## 🔥 Streak & Activity
 <p align="center">
-  <img height="170" src="https://streak-stats.demolab.com?user=MrInmortal434&theme=neon-dark&hide_border=true" />
+  <img height="170" src="https://streak-stats.demolab.com?user=MrInmortal434&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
 
-## 💾 Cyber Badges
+## 🧩 Cyber Badges
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=MrInmortal434&style=for-the-badge&color=00eaff" />
-  <img src="https://img.shields.io/badge/Cyberpunk_Mode-Activated-ff009d?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Neon_Developer-%F0%9F%92%A5-00eaff?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/CYBERPUNK-MODE-ff009d?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/NEON-DEVELOPER-00eaff?style=for-the-badge" />
 </p>
 
 ---
@@ -64,7 +59,5 @@
 ---
 
 <p align="center">
-  <img src="https://i.imgur.com/qRd7R9Y.gif" width="300">
+  <b>⚡ Stay Neon • Stay Legendary ⚡</b>
 </p>
-
-<p align="center">⚡ Thanks for stopping by — stay neon ⚡</p>
