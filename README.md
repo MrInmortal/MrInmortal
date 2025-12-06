@@ -15,14 +15,14 @@
 
 ## 🛠️ Tecnologías que Conozco
 <p align="center">
-    <img src="https://skillicons.dev/icons?i=html,css,js,cs,boostrap,python,sqlite,postgres,flutter,git,github,vscode,visualstudio,discord,bots&theme=dark" alt="HTML, CSS, JavaScript, C#, Blazor WebAssembly, Python, SQLite, PostgreSQL, Flutter, Git, GitHub, VSCode, Visual Studio, Discord" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,cs,bootstrap,python,sqlite,postgres,flutter,git,github,vscode,visualstudio,discord,bots&theme=dark" alt="HTML, CSS, JavaScript, C#, Blazor WebAssembly, Python, SQLite, PostgreSQL, Flutter, Git, GitHub, VSCode, Visual Studio, Discord" />
 </p>
 
 <br>
 
 ## 🌱 What I Want to Learn Next
 <p align="center">
-    <img src="https://skillicons.dev/icons?i=mongodb,express,react,nodejs,nextjs,ts,tailwind&theme=dark" alt="MongoDB, Express, React, Node.js, Next.js, TypeScript, Tailwind CSS" />
+    <img src="https://skillicons.dev/icons?i=mongodb,express,react,nodejs,nextjs,ts,tailwind&theme=dark" alt="MongoDB, Express, React, Node.js, Next.js, TypeScript, wordpress" />
 </p>
 
 <br>
@@ -34,8 +34,8 @@
     <a href="#" target="_blank">
         <img src="https://img.shields.io/badge/DISCORD-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
     </a>
-    <a href="#" target="_blank">
-        <img src="https://img.shields.io/badge/INSTAGRAM-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="[Instagram](https://www.instagram.com/emillperalta434)" />
+    <a href="https://www.instagram.com/emillperalta434" target="_blank">
+        <img src="https://img.shields.io/badge/INSTAGRAM-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
     </a>
 </div>
 
