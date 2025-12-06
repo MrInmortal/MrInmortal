@@ -1,6 +1,6 @@
 <div align="center">
     <h1 align="center">
-        <img src="https://readme-typing-svg.demolab.com?font=Major+Mono+Display&weight=700&size=32&pause=300&color=00FFFF&center=true&vCenter=true&width=800&lines=MrInmortal+434+%5B%2F%5D;FULL+STACK+LOADED;NEON+DEVELOPER+ONLINE;CYBERPUNK+%7C+CODE+%7C+VIBE" alt="MrInmortal434 - FULL STACK LOADED - NEON DEVELOPER ONLINE - CYBERPUNK | CODE | VIBE" />
+        <img src="https://readme-typing-svg.demolab.com?font=Major+Mono+Display&weight=700&size=32&pause=300&color=00FFFF&center=true&vCenter=true&width=800&lines=MrInmortal434+%5B%2F%5D;FULL+STACK+LOADED" alt="MrInmortal434 - FULL STACK LOADED" />
     </h1>
 </div>
 
