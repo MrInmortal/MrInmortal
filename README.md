@@ -4,7 +4,7 @@
     </h1>
 </div>
 
-## 🟣 [ O P E R A T O R _ L O G ] - About Me
+## 🟣 About Me
 > * **Desarrollador en Proceso:** Enfocado en la creación de soluciones **Full Stack**.
 > * **Pasión:** Diseño futurista, **Neon Vibe** y la optimización de código.
 > * **Misión:** Siempre aprendiendo nuevas tecnologías y llevando valor a cada proyecto.
@@ -12,35 +12,23 @@
 
 <br>
 
-## 🛠️ [ S K I L L S E T ] - Technologies I Master
+## 🛠️ Tecnologías que Conozco (SKILLSET)
 <p align="center">
-    <img src="https://skillicons.dev/icons?i=html,css,js,cs,blazor,python,sqlite,postgres,flutter,git,github,vscode,visualstudio,discord&theme=dark" alt="HTML, CSS, JavaScript, C#, Blazor, Python, SQLite, PostgreSQL, Flutter, Git, GitHub, VSCode, Visual Studio, Discord" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,cs,blazor,python,sqlite,postgres,flutter,git,github,vscode,visualstudio,discord&theme=dark" alt="HTML, CSS, JavaScript, C#, Blazor WebAssembly, Python, SQLite, PostgreSQL, Flutter, Git, GitHub, VSCode, Visual Studio, Discord" />
 </p>
 
 <br>
 
-## 🌱 [ L E V E L I N G _ U P ] - What I Want to Learn Next
-> * 🎯 **Deep Dive en el MERN Stack:** MongoDB, Express, React, Node.js para aplicaciones robustas.
-> * 🚀 **React Ecosystem:** Dominio de React, Next.js y TypeScript para frontend escalable.
-> * ✨ **Estilismo Neon:** Masterizar TailwindCSS para crear UIs hermosas y futuristas.
-> * 📦 **Containerización:** Docker para desplegar aplicaciones de forma eficiente.
-> * ⚙️ **Bases de Datos:** Explorar la sinergia de PERN (Postgres, Express, React, Node).
+## 🌱 What I Want to Learn Next
+<p align="center">
+    <img src="https://skillicons.dev/icons?i=mongodb,express,react,nodejs,nextjs,ts,tailwind,docker,postgresql&theme=dark" alt="MongoDB, Express, React, Node.js, Next.js, TypeScript, Tailwind CSS, Docker, PostgreSQL" />
+</p>
 
 <br>
 
 ---
 
-## 📈 [ D A T A _ S T A T S ] - GitHub Activity
-<div align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=MrInmortal434&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&title_color=00FFFF&icon_color=FF00AA&line_height=20" alt="GitHub Stats" width="48%" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MrInmortal434&layout=compact&theme=tokyonight&hide_border=true&title_color=00FFFF&icon_color=FF00AA" alt="Top Languages" width="48%" />
-    <br/>
-    <img src="https://streak-stats.demolab.com?user=MrInmortal434&theme=tokyonight&hide_border=true&fire=00FFFF&ring=FF00AA&side=00FFFF&dates=00FFFF" alt="GitHub Streak" />
-</div>
-
----
-
-## 🔗 [ C O N N E C T ] - Social Links
+## 🔗 Social Links
 <div align="center">
     <a href="#" target="_blank">
         <img src="https://img.shields.io/badge/DISCORD-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
