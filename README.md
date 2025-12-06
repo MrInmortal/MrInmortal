@@ -4,23 +4,26 @@
     </h1>
 </div>
 
-## 🟣 About Me
-> **MrInmortal434** // Desarrollador **Full Stack** en formación, enfocado en construir sistemas eficientes y escalables.
+## 🙋🏻‍♂️ About Me
+> **STATUS:** **ONLINE** (21 Años) // **SYSTEM LOCATION:** Santo Domingo, República Dominicana 🇩🇴
 >
-> * 💡 **Visión:** Obsesionado con el **Diseño Futurista** y la estética **Neon Vibe**. Busco siempre la optimización y la limpieza del código.
-> * 🚀 **Misión:** Transformar ideas complejas en productos digitales funcionales y visualmente atractivos. Siempre en modo **aprendizaje acelerado**.
-> * 📍 **Ubicación del Sistema:** República Dominicana 🇩🇴
+> * 🎓 **Matrícula Activa:** Estudiante de **Software Development** en el **Instituto Tecnológico de las Américas (ITLA)**.
+> * ⚙️ **Rol Actual:** **Soporte Técnico** con conocimientos básicos en **Networking** (Redes).
+> * 💡 **Objetivo Principal (Frontline):** Mi pasión es el **Frontend**, la **Programación Web** y la creación de experiencias de usuario inmersivas (**UI/UX**).
+> * 🚀 **Próxima Misión (Backend Focus):** Decidido a dominar el **Backend** para convertirme en un desarrollador **Full Stack** integral.
+> * ✨ **Vibe Check:** Apasionado por el código limpio, la optimización y la estética **Neon/Futurista**.
+> * 🤝 **Colaboración:** Abierto a proyectos **freelance** y contribuciones **open-source**.
 
 <br>
 
-## 🛠️ Tecnologías que Conozco
+## 🧑🏻‍💻 Technologies I Know
 <p align="center">
     <img src="https://skillicons.dev/icons?i=html,css,js,cs,bootstrap,python,sqlite,postgres,flutter,git,github,vscode,visualstudio,discord,bots&theme=dark" alt="HTML, CSS, JavaScript, C#, Blazor WebAssembly, Python, SQLite, PostgreSQL, Flutter, Git, GitHub, VSCode, Visual Studio, Discord" />
 </p>
 
 <br>
 
-## 🌱 What I Want to Learn Next
+## 💀 What I Want to Learn Next
 <p align="center">
     <img src="https://skillicons.dev/icons?i=mongodb,express,react,nodejs,nextjs,ts,tailwind&theme=dark" alt="MongoDB, Express, React, Node.js, Next.js, TypeScript, wordpress" />
 </p>
