@@ -5,13 +5,13 @@
 </div>
 
 ## 🙋🏻‍♂️ About Me
-> **STATUS:** **ONLINE** (21 Años) // **SYSTEM LOCATION:** Santo Domingo, República Dominicana 🇩🇴
+> **Información Personal:** Mi nombre es Emill Peralta, tengo 21 años // **Ubicación:** Santo Domingo, República Dominicana 🇩🇴
 >
-> * 🎓 **Matrícula Activa:** Estudiante de **Software Development** en el **Instituto Tecnológico de las Américas (ITLA)**.
-> * ⚙️ **Rol Actual:** **Soporte Técnico** con conocimientos básicos en **Networking** (Redes).
-> * 💡 **Objetivo Principal (Frontline):** Mi pasión es el **Frontend**, la **Programación Web** y la creación de experiencias de usuario inmersivas (**UI/UX**).
-> * 🚀 **Próxima Misión (Backend Focus):** Decidido a dominar el **Backend** para convertirme en un desarrollador **Full Stack** integral.
-> * ✨ **Vibe Check:** Apasionado por el código limpio, la optimización y la estética **Neon/Futurista**.
+> * 🎓 **Estudios:** Actualmente soy studiante de **Software Development** en el **Instituto Tecnológico de las Américas (ITLA)**.
+> * ⚙️ **Rol Actual:** Trabajo como **Soporte Técnico** con conocimientos básicos en **Networking** (Redes).
+> * 💡 **Objetivo Principal:** Mi pasión es el **Frontend**, la **Programación Web** y la creación de experiencias de usuario inmersivas (**UI/UX**).
+> * 🚀 **Próxima Misión:** Decidido a dominar el **Backend** para convertirme en un desarrollador **Full Stack**.
+> * ✨ **Vibe Check:** Apasionado por el código limpio, la optimización y la estética **WEB**.
 > * 🤝 **Colaboración:** Abierto a proyectos **freelance** y contribuciones **open-source**.
 
 <br>
