@@ -42,9 +42,3 @@
     </a>
 </div>
 
-[![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)](https://dotnet.microsoft.com/)
-[![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)](https://dotnet.microsoft.com/)
-[![High Performance](https://img.shields.io/badge/Performance-Optimized-D81B60?style=for-the-badge&logo=speedtest&logoColor=white)](https://learn.microsoft.com/en-us/dotnet/standard/parallel-programming/)
-[![Multithreading](https://img.shields.io/badge/Multithreading-TPL-blue?style=for-the-badge&logo=cmake&logoColor=white)](https://learn.microsoft.com/en-us/dotnet/standard/parallel-programming/task-parallel-library-tpl)
-[![Financial Analysis](https://img.shields.io/badge/Finance-Risk_Modeling-00A86B?style=for-the-badge&logo=calculator&logoColor=white)]()
-[![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visualstudio&logoColor=white)]()
